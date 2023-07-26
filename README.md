@@ -12,6 +12,8 @@
 -  - else  the movie rating is 2 or less and the popularity is less than 50 , print "Don't watch it. It is a waste of time"
 
 
+
+
 ## Bonus
 ### write a program that asks the user to provide his name and his email using input , then do the following:
 - Check that the name length is more than 2 characters.
@@ -26,9 +28,8 @@ welcome Ahmed, you registered with the email ahmed@gmail.com !
 ```
  the email is not valid , please provide a valid email .
 ```
-
 or 
-
 ```
 the name length must be more than 2 characters, please provide a valid name.
 ```
+
