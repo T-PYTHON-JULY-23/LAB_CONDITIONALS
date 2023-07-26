@@ -1,5 +1,5 @@
 #Create a variable for the movie (choose any movie you like)
-Movie = "Oppenheimer"
+movie = "Oppenheimer"
 #Create a variable of type int to hold the rating of the movie out of 5 . Give this movie 3
 movie_rate = 3
 #Create a popularity score of type float , let it be 72.65
