@@ -1,6 +1,6 @@
 movie = "titanic"
 rating = int(3)
-popularity = float(72.65)
+popularity = float(99.65)
 
 if rating >= 4 and popularity > 80:
     print("Highly recommended")
